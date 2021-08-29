@@ -1,0 +1,21 @@
+.wrap {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 24px;
+    
+}
+
+.header h1 {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(143, 8, 221);
+    border: 1px solid rgb(207, 207, 207);
+}
+
+.content {
+    text-align: start;
+}
+
+.image-foods{
+    width: 500px;
+}

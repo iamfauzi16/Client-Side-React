@@ -1,0 +1,10 @@
+.wrap {
+    margin: 24px;
+    width: 500px;
+}
+
+.hero-section img {
+    margin: 24px;
+    border-radius: 20px;
+   width: 500px;
+}
