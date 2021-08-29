@@ -34,7 +34,7 @@ export class FoodsComponents extends Component {
                 </div>
             )
         } else if(!isLoaded) {
-            return <div>Loading...</div>
+            return <div><h2>Loading...</h2></div>
         }else {
             return(
                 <div className="wrap">
